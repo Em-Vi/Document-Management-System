@@ -41,14 +41,10 @@ Demo login credentials:
 
 ## 🧱 Project Structure
 
-```
-
 /frontend         # Next.js sample frontend
 /backend          # Fastify backend (sample logic only)
 /database         # SQL schema (sanitized)
 /uploads          # Placeholder for file handling
-
-````
 
 ---
 
