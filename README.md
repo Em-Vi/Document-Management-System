@@ -15,6 +15,7 @@ Demo login credentials:
 - user: EmVi, pass: Admin123
 - user: EmVeeh, pass: password123
 ---
+```
 
 ## 🚀 Features (Sample Showcase)
 
