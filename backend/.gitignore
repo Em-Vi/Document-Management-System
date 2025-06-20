@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+.env
+scripts
+api_docs.txt
+dist
+fastify-server.exe
+S
