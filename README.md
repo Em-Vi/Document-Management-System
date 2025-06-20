@@ -1,10 +1,6 @@
-# Document-Management-System
-
+# 📂 Document Management System – Sample Project
 
 ---
-
-
-# 📂 Document Management System – Sample Project
 
 A secure and efficient **document management system** designed for enterprise-level organizations to streamline employee document workflows and replace manual processing.
 
@@ -14,8 +10,9 @@ Demo login credentials:
 ```md
 - user: EmVi, pass: Admin123
 - user: EmVeeh, pass: password123
----
 ```
+---
+
 
 ## 🚀 Features (Sample Showcase)
 
